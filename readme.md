@@ -133,7 +133,8 @@ Make sure that your virtual environment has been activiated, typically this will
 Then, just use pip to install flask, i.e.
 
 ```sh
-(base) E:\CSE 6242 - Data and Visual Analytics\Week 01\Assignments\HbFNf7lYzQ_hw1\Q5>pip install FlaskCollecting Flask
+(base) E:\CSE 6242 - Data and Visual Analytics\Week 01\Assignments\HbFNf7lYzQ_hw1\Q5>pip install Flask
+Collecting Flask
   Downloading Flask-2.2.5-py3-none-any.whl (101 kB)
      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 101.8/101.8 kB ? eta 0:00:00
 Collecting click>=8.0
