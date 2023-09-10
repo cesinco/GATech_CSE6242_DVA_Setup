@@ -71,7 +71,7 @@ Python 3.7.9
 Make a virtual environment called "base" in your course folder
 
 ```sh
-C:\Python37>python -m venv "E:\CSE 6242 - Data and Visual Analytics\base"`
+C:\Python37>python -m venv "E:\CSE 6242 - Data and Visual Analytics\base"
 ```
 
 Now start Visual Studio Code and open a new folder using the folder for your class folder, for example:
