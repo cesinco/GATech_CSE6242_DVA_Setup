@@ -2,7 +2,7 @@
 
 ## Folder Structure
 
-The followng is the folder structure I have currently, which includes installation of python into a virtual environment called "base" (Note: the entire folder structure of the "base" venv is not documented below)
+The following is the folder structure I have currently, which includes installation of python into a virtual environment called "base" (Note: the entire folder structure of the "base" venv is not documented below)
 
 ```
 E:\CSE 6242 - Data and Visual Analytics
@@ -113,7 +113,7 @@ OpenRefine does not need to be installed - simply uncompress the archive file th
 To execute OpenRefine, open a command prompt to the uncompressed folder and type `refine`
 
 ```sh
-E:\Downloads\Development\OpenRefine\openrefine-3.6.2>E:\Downloads\Development\OpenRefine\openrefine-3.6.2\refine
+E:\Downloads\Development\OpenRefine\openrefine-3.6.2>refine
 Using refine.ini for configuration
 Java 14 (14.0.2)
 Getting Free Ram...
