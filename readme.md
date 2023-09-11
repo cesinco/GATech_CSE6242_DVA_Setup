@@ -160,3 +160,17 @@ Collecting MarkupSafe>=2.0
 Installing collected packages: zipp, typing-extensions, MarkupSafe, itsdangerous, Werkzeug, Jinja2, importlib-metadata, click, Flask
 Successfully installed Flask-2.2.5 Jinja2-3.1.2 MarkupSafe-2.1.3 Werkzeug-2.2.3 click-8.1.7 importlib-metadata-6.7.0 itsdangerous-2.1.2 typing-extensions-4.7.1 zipp-3.15.0
 ```
+
+To run Flask, using your command prompt or VS Code terminal window, change to the folder that contains your run.py file, and then call that fiile from your python interpreter installed in your virtual environment
+
+```sh
+(base) E:\CSE 6242 - Data and Visual Analytics>cd "Week 01\Assignments\HbFNf7lYzQ_hw1\Q5"
+(base) E:\CSE 6242 - Data and Visual Analytics\Week 01\Assignments\HbFNf7lYzQ_hw1\Q5>python run.py
+* Serving Flask app 'flaskapp'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:3001
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+```
