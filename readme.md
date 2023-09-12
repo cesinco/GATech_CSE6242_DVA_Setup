@@ -96,9 +96,19 @@ Check if the newly launched command window is  displaying the following on the c
 If not, then you will need to manually activate your virtual environment:
 E:\CSE 6242 - Data and Visual Analytics>"e:\CSE 6242 - Data and Visual Analytics\base\Scripts\activate.bat"
 
+## Running the python http server
+
+In your VS Code terminal window and assuming that your virtual environment has already been activated, navigate to the folder where the root of your website will be served from, for example:
+
+```sh
+(base) E:\CSE 6242 - Data and Visual Analytics>cd Week 01\Assignments\HbFNf7lYzQ_hw1\Q3
+(base) E:\CSE 6242 - Data and Visual Analytics\Week 01\Assignments\HbFNf7lYzQ_hw1\Q3>python -m http.server 8888
+Serving HTTP on :: port 8888 (http://[::]:8888/) ...
+```
+
+Now you can open your web browser to http://localhost:8888/Q3.html (for example)
 
 ## Additional Software Setup
-
 
 For some questions in this course, we need to download additional software.
 
