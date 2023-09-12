@@ -108,6 +108,8 @@ Serving HTTP on :: port 8888 (http://[::]:8888/) ...
 
 Now you can open your web browser to http://localhost:8888/Q3.html (for example)
 
+![Q3.html](images/localhost8888_Q3html.png)
+
 ## Additional Software Setup
 
 For some questions in this course, we need to download additional software.
