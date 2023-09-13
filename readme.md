@@ -80,6 +80,8 @@ Now start Visual Studio Code and open a new folder using the folder for your cla
 
 In VS-Code press `Ctrl-Shift-P` and select option "Python: Select Interpreter" then choose the path to the venv "base" you just created
 
+![VSCode - Select Interpreter](images/VSCode_SelectInterpreter.png)
+
 You can also use python notebooks (files with .ipynb extensions) but will be prompted to install ipykernel
 
 In Visual Studio Code, start a new terminal window, i.e. from pull-down menus, choose Terminal --> New Terminal
